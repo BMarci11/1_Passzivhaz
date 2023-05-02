@@ -8,11 +8,11 @@
 }
 
 p{
-	
+	text-align: justify;
 }
 
 hr {
-	
+	width: 60%;
 }
 
 h1, h2 {
@@ -38,8 +38,9 @@ h2 {
 
 
 .kep {
-	
+	border: 1px solid;
 	margin-left: 5px;
+	float: right;
 }
 
 a:link a:active, a:visited, a:hover{
